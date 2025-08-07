@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Chenlei Leng"
+title                    : "Chenlei Leng | Statistics & Machine Learning"
 title_separator          : "-"
 name                     : &name "Chenlei Leng"
 description              : &description "Website"
