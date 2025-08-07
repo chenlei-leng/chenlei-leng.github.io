@@ -6,6 +6,8 @@ collection: group
 
 I am recruiting PhD students with a strong foundation in mathematics, statistics, and computing science, and relevant experience in statistics, machine learning, data science, AI, or related areas. If you're interested in theoretical or methodological research with real-world impact, please contact me with your CV and a short research statement.
 
+Visiting students funded by external sources who are interested in the above topics are also welcome to get in touch. Please send a CV and any relevant supporting materials (e.g., transcripts, research summary).
+
 ---
 
 **Current PhD Students**
