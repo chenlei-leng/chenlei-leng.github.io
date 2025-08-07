@@ -4,4 +4,4 @@ except: "Students"
 collection: group
 ---
 
-I am looking for highly motivated students to join my group as PhD students. If you are interested in statistics, machine learning, or network analysis, and enjoy working on theoretical or methodological problems with real-world relevance, feel free to get in touch.
+I am recruiting PhD students with a strong foundation in mathematics and statistics, and relevant experience in statistics, machine learning, data science, AI, or related areas. If you're interested in theoretical or methodological research with real-world impact, please contact me with your CV and a short research statement.
