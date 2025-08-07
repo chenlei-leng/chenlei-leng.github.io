@@ -1,5 +1,5 @@
 ---
-title: "PhD Students"
+title: "Current and Former Students"
 except: "Students"
 collection: group
 ---
@@ -23,6 +23,10 @@ I am **actively recruiting PhD students** with a strong foundation in mathematic
 - [Stefan Stein](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/stein)
 - [Nikolas Kuhlen](https://nkuhlen.github.io)
 - [Lizhu Tao](http://www2.warwick.ac.uk/fac/sci/statistics/staff/research_students/tao)
+- [Ying Cui](https://sites.google.com/site/optyingcui/)
+- [Xiaojun Jiang](https://www.linkedin.com/in/xiaojun-jiang-3439aa49/?originalSubdomain=sg)
+- [Yanxi Xie](https://cm.sues.edu.cn/34/6c/c23405a210028/page.htm)
+- [Nan Lin](https://www.linkedin.com/in/nan-lin-phd-5142733a/)
 
 ---
 
