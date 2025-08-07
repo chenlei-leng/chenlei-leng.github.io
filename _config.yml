@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "My Academic Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Chenlei Leng"
 description              : &description "Website"

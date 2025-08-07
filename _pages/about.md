@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Chenlei Leng"
 author_profile: true
 redirect_from: 
   - /about/
