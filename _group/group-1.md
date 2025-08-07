@@ -14,7 +14,7 @@ I am **actively recruiting PhD students** with a strong foundation in mathematic
 
 - [Yuanhe Zhang](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang), joint with [Fanghui Liu](https://www.lfhsgre.org)
 - [Rui Feng](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/rfeng)
-- Xinyuan Fan, visiting student from Tsinghua, joint with [Weichi Wu](http://www.stat.tsinghua.edu.cn/teachers/weichiwu/)
+- Xinyuan Fan, visiting student from Tsinghua, joint with [Weichi Wu](https://www.stat.tsinghua.edu.cn/info/1023/2412.htm)
 
 ---
 
