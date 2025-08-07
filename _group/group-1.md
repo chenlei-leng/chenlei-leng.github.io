@@ -1,5 +1,6 @@
 ---
 title: "PhD Students"
+except: "Students"
 collection: portfolio
 ---
 
