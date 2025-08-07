@@ -362,7 +362,7 @@ def parse_portfolio(portfolio_dir):
             
             portfolio.append(portfolio_entry)
     
-    return portfolio
+    return group
 
 def create_cv_json(md_file, config_file, repo_root, output_file):
     """Create a JSON CV from markdown and other repository data."""
