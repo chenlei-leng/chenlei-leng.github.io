@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an academic statistician interested in developing new methods for analysing large complex data that are high-dimensional, correlated, and/or networked in nature.
+I am an academic statistician interested in developing new methods for analyzing large complex data that are high-dimensional, correlated, and/or networked in nature.
 
 I have worked at various institutes including National University of Singapore, Peking University, University of Munich, and University of Warwick. 
 
