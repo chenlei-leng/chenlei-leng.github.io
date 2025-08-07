@@ -140,13 +140,13 @@
       "description": ""
     }
   ],
-  "portfolio": [
+  "group": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "group item number 1",
+      "category": "group",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Short description of group item number 1<br/><img src='/images/500x300.png'>"
     }
   ]
 }
