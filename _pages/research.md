@@ -22,8 +22,9 @@ I work on statistical modeling, machine learning, and network science. My resear
   Statistical perspectives for safe, interpretable, and collaborative AI systems.
 
 ---
+### 📚 Publications
 
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 ---
 
