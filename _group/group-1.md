@@ -2,6 +2,7 @@
 title: "What's New"
 except: "Students"
 collection: group
+hide_title: true
 ---
 
 I am **actively recruiting PhD students** with a strong foundation in mathematics, statistics, and computing science, and relevant experience in statistics, machine learning, data science, AI, or related areas. If you are interested in theoretical or methodological research with real-world impact, please get in touch with your CV and a brief research statement. 
