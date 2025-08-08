@@ -1,0 +1,4 @@
+/* Disable underline on hover for all links */
+a:hover {
+  text-decoration: none !important;
+}
