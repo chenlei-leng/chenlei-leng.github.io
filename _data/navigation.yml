@@ -17,7 +17,6 @@ main:
   - title: "Group"
     url: /group/
         
-    
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "Activities"
+    url: /activities/
  

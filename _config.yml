@@ -17,14 +17,6 @@ url                      : https://chenlei-leng.github.io # the base hostname & 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenlei-leng/chenlei-leng.github.io"
 
-# Navigation links (add this section near the top, for example after `baseurl`)
-navbar_links:
-  About Me: "about"
-  Research: "research"
-  Teaching: "teaching"
-  Group: "group"
-  Activities: "activities"
-
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
