@@ -1,6 +1,6 @@
 ---
 title: "What's New"
-#except: "Students"
+except: "Students"
 collection: group
 ---
 
