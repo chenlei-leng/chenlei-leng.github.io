@@ -1,20 +1,27 @@
 ---
-**What's New**
+layout: single
+title: "Group"
+permalink: /group/
+author_profile: true
+---
 
-I am **actively recruiting PhD students** with a strong foundation in mathematics, statistics, and computing science, and relevant experience in statistics, machine learning, data science, AI, or related areas. If you are interested in theoretical or methodological research with real-world impact, please get in touch with your CV and a brief research statement. 
+### 🆕 What's New
 
+I am **actively recruiting PhD students** with a strong foundation in mathematics, statistics, and computing science, and relevant experience in statistics, machine learning, data science, AI, or related areas.
+
+If you are interested in theoretical or methodological research with real-world impact, please get in touch with your **CV** and a **brief research statement**.
 
 ---
 
-**Current PhD Students**
+### 🎓 Current PhD Students
 
 - [Yuanhe Zhang](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang), joint with [Fanghui Liu](https://www.lfhsgre.org)
 - [Rui Feng](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/rfeng)
-- Xinyuan Fan, visiting student from Tsinghua, joint with [Weichi Wu](https://www.stat.tsinghua.edu.cn/info/1023/2412.htm)
+- Xinyuan Fan (visiting student from Tsinghua), joint with [Weichi Wu](https://www.stat.tsinghua.edu.cn/info/1023/2412.htm)
 
 ---
 
-**Alumni**
+### 🎓 Alumni
 
 - [Stefan Stein](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/stein)
 - [Nikolas Kuhlen](https://nkuhlen.github.io)
@@ -26,12 +33,10 @@ I am **actively recruiting PhD students** with a strong foundation in mathematic
 
 ---
 
-**Visiting Students**
+### 🌍 Visiting Students
 
-- Lei Wang, Summer 2016, University of Science and Technology of China
-- Rentian Yao, Summer 2018, Fudan University
-- Jiemiao Chen, Summer 2021, Shandong University
-- Yibo Wang, Summer 2025, University of Science and Technology of China
-
----
+- **Lei Wang**, Summer 2016, University of Science and Technology of China  
+- **Rentian Yao**, Summer 2018, Fudan University  
+- **Jiemiao Chen**, Summer 2021, Shandong University  
+- **Yibo Wang**, Summer 2025, University of Science and Technology of China
 
