@@ -15,9 +15,6 @@ I work on statistical modeling, machine learning, and network science. My resear
 - **Network Models**  
   Directed and undirected models with reciprocity, transitivity, and latent structure.
 
-- **Graphon and Exchangeable Structures**  
-  Nonparametric models for large networks using graphon and graphex processes.
-
 - **Pairwise Comparison Models**  
   Low-rank and structured models for ranking and comparison data.
 
