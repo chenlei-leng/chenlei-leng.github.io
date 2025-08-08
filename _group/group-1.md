@@ -1,10 +1,10 @@
 ---
-#title: "What's New"
+title: "What's New"
 #except: "Students"
-#collection: group
+collection: group
 ---
 
-**What's New**: I am **actively recruiting PhD students** with a strong foundation in mathematics, statistics, and computing science, and relevant experience in statistics, machine learning, data science, AI, or related areas. If you are interested in theoretical or methodological research with real-world impact, please get in touch with your CV and a brief research statement. 
+I am **actively recruiting PhD students** with a strong foundation in mathematics, statistics, and computing science, and relevant experience in statistics, machine learning, data science, AI, or related areas. If you are interested in theoretical or methodological research with real-world impact, please get in touch with your CV and a brief research statement. 
 **Visiting students funded by external sources** who are interested in the above topics are also very welcome to reach out. Please include your CV and any relevant supporting materials (e.g., transcripts, research summary).
 
 
