@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-I work on statistical modeling, machine learning, and network science. My research explores the intersection of structure, data, and algorithms, with a focus on both theoretical understanding and real-world applications.
+I work on statistical modeling, machine learning, and network science. My research explores the intersection of structure, data, and algorithms, with a focus on both theoretical understanding and real-world applications. My full list of publications can be found on 🔗 [Google Scholar]({{site.author.googlescholar}})
+
 
 ---
 
@@ -28,12 +29,6 @@ I work on statistical modeling, machine learning, and network science. My resear
 
 - **Human-Centred Foundation Models**  
   Statistical perspectives for safe, interpretable, and collaborative AI systems.
-
----
-
-### 📚 Publications
-
-You can find my full list of publications on 🔗 [Google Scholar]({{site.author.googlescholar}})
 
 ---
 
