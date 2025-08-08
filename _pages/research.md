@@ -19,10 +19,12 @@ I work on statistical modeling, machine learning, and network science. My resear
   Low-rank and structured models for ranking and comparison data.
 
 - **Human-Centred Foundation Models**  
-  Statistical perspectives for safe, interpretable, and collaborative AI systems (UK–Japan collaboration).
+  Statistical perspectives for safe, interpretable, and collaborative AI systems.
 
 ---
 
-### 📚 Selected Publications
+### 📚 Recent Highlights
 
-**Leng, C.**, Author B., Author C. (2025). *Additive Separable G*
+- Feng, C. and Leng, C. (2025). [*Modelling Directed Networks with Reciprocity*](https://doi.org/10.1093/biomet/asad123). *Biometrika*, to appear.
+- Jiang, B., Leng, C., Yan, T., Yao, Q. and Yu, X., 2023. [*A two-way heterogeneity model for dynamic networks*](https://arxiv.org/abs/2305.12643), *Annals of Statistics*, to appear.
+
