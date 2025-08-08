@@ -20,10 +20,10 @@ I am an Elected Member of the [International Statistical Institute (ISI)](https:
 
 ---
 
-### 🆕 What's New
+### 🚀 What’s New
 
-I am **actively recruiting PhD students** with a strong foundation in mathematics, statistics, and computing science, and relevant experience in statistics, machine learning, data science, AI, or related areas.
+I am **actively recruiting PhD students** who have a strong background in mathematics, statistics, or computer science, along with experience in statistics, machine learning, data science, AI, or related fields.
 
-If you are interested in theoretical or methodological research with real-world impact, please get in touch with your **CV** and a **brief research statement**.
+If you are passionate about theoretical or methodological research with meaningful real-world applications, I encourage you to get in touch. Please send your **CV** and a **brief research statement** outlining your interests and goals.
 
 ---
