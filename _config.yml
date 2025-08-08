@@ -350,18 +350,3 @@ compress_html:
   ignore:
     envs: development
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page
-
-# Add this:
-include:
-  - assets/css/custom.css
