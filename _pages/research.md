@@ -33,8 +33,7 @@ I work on statistical modeling, machine learning, and network science. My resear
 
 ### 📚 Publications
 
-You can find my full list of publications on  
-🔗 [Google Scholar]({{site.author.googlescholar}})
+You can find my full list of publications on 🔗 [Google Scholar]({{site.author.googlescholar}})
 
 ---
 
