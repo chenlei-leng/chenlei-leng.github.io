@@ -21,7 +21,7 @@ If you are interested in theoretical or methodological research with real-world 
 
 ---
 
-### 🎓 Alumni
+### 🎖️ Alumni
 
 - [Stefan Stein](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/stein)
 - [Nikolas Kuhlen](https://nkuhlen.github.io)
