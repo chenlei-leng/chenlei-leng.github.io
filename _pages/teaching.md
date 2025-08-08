@@ -22,7 +22,7 @@ I am passionate about teaching and mentoring students in statistics, data scienc
 
 ---
 
-### 💡 Teaching Philosophy
+### 🧭 Teaching Philosophy
 
 I believe in active learning through practical exercises, real data examples, and fostering critical thinking. I aim to create an inclusive environment where all students feel encouraged to participate and excel.
 
