@@ -30,7 +30,7 @@ I am **actively recruiting PhD students** with a strong foundation in mathematic
 
 ---
 
-**Visiting Undergraduate Students**
+**Visiting Students**
 
 - Lei Wang, Summer 2016, University of Science and Technology of China
 - Rentian Yao, Summer 2018, Fudan University
