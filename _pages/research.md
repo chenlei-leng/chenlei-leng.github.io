@@ -31,7 +31,8 @@ I work on statistical modeling, machine learning, and network science. My resear
 ### 📚 Recent Highlights
 
 - Feng, C. and Leng, C. (2025). [*Modelling Directed Networks with Reciprocity*](https://doi.org/10.1093/biomet/asad123). *Biometrika*, to appear.
-- Jiang, B., Leng, C., Yan, T., Yao, Q. and Yu, X. (2025). [*A two-way heterogeneity model for dynamic networks*](https://arxiv.org/abs/2305.12643).*Annals of Statistics*, to appear.
+- Jiang, B., Leng, C., Yan, T., Yao, Q. and Yu, X. (2025). [*A two-way heterogeneity model for dynamic networks*](https://arxiv.org/abs/2305.12643). *Annals of Statistics*, to appear.
+- Fan, X., Li, B., Leng, C., and Wu, W. (2025). [*Learning Changes in Graphon Attachment Network Models*](https://openreview.net/pdf?id=Jy5Lz5xNUy). *ICML*.
 
 ---
 
