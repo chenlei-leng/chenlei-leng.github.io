@@ -9,7 +9,7 @@ I am passionate about teaching and mentoring students in statistics, data scienc
 
 ---
 
-### 🎓 Courses
+### 📚 Courses
 
 - **Programming for Data Science**  
   Introduction to programming concepts using Python, focusing on data manipulation, visualization, and basic machine learning.
