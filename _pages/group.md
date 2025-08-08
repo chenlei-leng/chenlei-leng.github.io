@@ -32,4 +32,3 @@ author_profile: true
 - **Jiemiao Chen**, Summer 2021, Shandong University  
 - **Yibo Wang**, Summer 2025, University of Science and Technology of China
 
----

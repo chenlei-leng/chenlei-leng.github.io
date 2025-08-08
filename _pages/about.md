@@ -26,4 +26,4 @@ I am **actively recruiting PhD students** who have a strong background in mathem
 
 If you are passionate about theoretical or methodological research with meaningful real-world applications, I encourage you to get in touch. Please send your **CV** and a **brief research statement** outlining your interests and goals.
 
----
+
