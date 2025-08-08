@@ -40,7 +40,7 @@ You can find my full list of publications on
 
 ### ✨ Recent Highlights
 
-- **Feng, C.** and **Leng, C.** (2025). [*Modelling Directed Networks with Reciprocity*](https://doi.org/10.1093/biomet/asad123). *Biometrika*, to appear.
+- **Feng, C.** and **Leng, C.** (2025). [*Modelling Directed Networks with Reciprocity*](https://arxiv.org/abs/2411.12871). *Biometrika*, to appear.
 
 - **Jiang, B.**, **Leng, C.**, **Yan, T.**, **Yao, Q.**, and **Yu, X.** (2025). [*A Two-Way Heterogeneity Model for Dynamic Networks*](https://arxiv.org/abs/2305.12643). *Annals of Statistics*, to appear.
 
