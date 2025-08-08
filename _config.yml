@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Dr. Chenlei Leng"
-  pronouns         : "he/him/his"# example: "she/her"  
+  pronouns         : "he/him/his" # example: "she/her"  
   bio              : "Statistician, Machine Learner, and Data Scientist"
   location         : "Hong Kong"
   employer         : "Hong Kong Polytechnic University"
