@@ -21,7 +21,6 @@ repository               : "chenlei-leng/chenlei-leng.github.io"
 navbar_links:
   About Me: "about"
   Research: "research"
-  Publications: "research"  # if publications are included on the same page
   Teaching: "teaching"
   Group: "group"
   Activities: "activities"
