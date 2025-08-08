@@ -1,5 +1,5 @@
 ---
-title: "Current and Former Students"
+title: "Research Group"
 except: "Students"
 collection: group
 ---
