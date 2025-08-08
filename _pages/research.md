@@ -22,7 +22,7 @@ I work on statistical modeling, machine learning, and network science. My resear
   Low-rank and structured models for ranking and comparison data.
 
 - **High-Dimensional Data**  
-  Theory and methodology for sparse estimation, regularisation, and scalable computation in high-dimensional settings.
+  Theory and methodology for sparse estimation, regularization, and scalable computation in high-dimensional settings.
 
 - **Correlated Data**  
   Statistical inference for dependent and structured data, including longitudinal, spatial, and time series contexts.
