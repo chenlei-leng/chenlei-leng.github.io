@@ -5,10 +5,12 @@ permalink: /activities/
 author_profile: true
 ---
 
-### 🧠 Research Activities
+### 🧠 Recent Research Activities
+
+- **Keynote Speaker** - [The 12th IEEE International Conference on Data Science and Advanced Analytics](https://dsaa.ieee.org/2025/), Birmingham, UK, 9-12 October 2025.
 
 - **Co-Organizer** — [Workshop on *Statistical Methods for Network Analysis*](http://www.tsimf.cn/meeting/detail?id=378),  
-  Tsinghua Sanya International Mathematics Forum, 19–23 December 2024.
+  Tsinghua Sanya International Mathematics Forum, China, 19–23 December 2024.
 
 - **Organizer** — [Workshop on *Statistical Analysis of Networks*](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/leng/san/),  
   University of Warwick, 18–19 September 2023.
