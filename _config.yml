@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "冷琛雷 | Statistics & Machine Learning"
+title                    : "冷琛雷 | 统计和机器学习"
 title_separator          : "-"
 name                     : &name "Chenlei Leng"
 description              : &description "Website"
