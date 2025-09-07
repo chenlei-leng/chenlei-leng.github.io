@@ -12,7 +12,8 @@ I am passionate about teaching and mentoring students in statistics, data scienc
 ### 📚 Courses
 
 - **Programming for Data Science**  
-  Introduction to programming concepts using Python, focusing on data manipulation, visualization, and basic machine learning.
+
+A module introducing algorithms for large-scale data analysis, covering methods such as PCA, clustering, Markov chains, bandit models, supervised learning, neural networks, Gaussian processes, and parallel computing, with implementation in R.
 
 ---
 
