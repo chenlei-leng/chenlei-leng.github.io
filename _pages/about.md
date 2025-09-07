@@ -22,15 +22,9 @@ I am an Elected Member of the [International Statistical Institute (ISI)](https:
 
 ### 🚀 What’s New
 
-I am **actively recruiting motivated PhD students** with strong foundations in mathematics, statistics, or computer science, and broad interests in **statistics, machine learning, data science, and AI**.  
+I am **recruiting PhD students** with strong backgrounds in mathematics, statistics, or computer science, and interests in **statistics, machine learning, data science, and AI**. If you are excited about developing new theory and methods with real-world impact, please send your **CV** and a **short research statement** to 📧 [chenlei.leng@gmail.com](mailto:chenlei.leng@gmail.com). More information about scholarship opportunities is available on the [PolyU Graduate School](https://www.polyu.edu.hk/gs/) website. Due to the high volume of emails, I will only reply to applicants who may be a good fit.
 
-For details about scholarship opportunities, please see the [PolyU Graduate School](https://www.polyu.edu.hk/gs/).  
 
-If you are excited about **developing new theory and methodology** while making an impact on **real-world applications**, I would be delighted to hear from you.  
-
-To apply, please send me your **CV** along with a **short research statement** outlining your research interests, background, and future goals.  
-
-📧 Contact: [chenlei.leng@gmail.com](mailto:chenlei.leng@gmail.com)
 
 
 
