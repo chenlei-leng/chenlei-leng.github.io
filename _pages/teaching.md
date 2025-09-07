@@ -24,7 +24,7 @@ I am passionate about **teaching and mentoring** students, and have received a *
 
 ### 🧭 Teaching Philosophy
 
-I emphasize **active, hands-on learning** with real-world data, fostering critical thinking in an inclusive and supportive environment.
+I emphasize **theory and derivation alongside hands-on learning**, using real-world data to foster critical thinking in an inclusive and supportive environment.
 
 ---
 
