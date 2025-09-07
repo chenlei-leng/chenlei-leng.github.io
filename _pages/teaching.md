@@ -5,14 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am passionate about **teaching and mentoring** students in statistics, data science, and machine learning. I have received a **Teaching Excellence Award** and was also honored with a nomination for another. Below is a summary of my teaching experience, courses, and related activities.
+I am passionate about **teaching and mentoring** students, and have received a **Teaching Excellence Award** as well as a nomination for another. Below is a summary of my teaching experience, courses, and related activities.
 
 ---
 
 ### 📚 Courses
 
 - **Programming for Data Science**  
-  Introduces algorithms and programming for large-scale data analysis, covering PCA, clustering, Markov chains, supervised learning, neural networks, and parallel computing, with implementation in R.
+  Covers algorithms and programming for large-scale data analysis, with hands-on implementation in R.
 
 ---
 
@@ -24,7 +24,7 @@ I am passionate about **teaching and mentoring** students in statistics, data sc
 
 ### 🧭 Teaching Philosophy
 
-I emphasize **active learning** through hands-on exercises and real-world data, fostering critical thinking in an inclusive and supportive environment.
+I emphasize **active, hands-on learning** with real-world data, fostering critical thinking in an inclusive and supportive environment.
 
 ---
 
