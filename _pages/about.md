@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**About Me**
+**Brief Bio**
 
 I am a statistician developing new methods for analyzing large, complex datasets—particularly those that are high-dimensional, correlated, or network-structured.
 
