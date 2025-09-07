@@ -12,7 +12,7 @@ I am passionate about teaching and mentoring students in statistics, data scienc
 ### 📚 Courses
 
 - **Programming for Data Science**  
-  A module that introduces algorithms and programming techniques for large-scale data analysis. Topics include dimensionality reduction (PCA), clustering, Markov chains, bandit models, supervised learning, neural networks, Gaussian processes, and parallel computing, with practical implementation in R.
+  Introduces algorithms and programming for large-scale data analysis, covering PCA, clustering, Markov chains, supervised learning, neural networks, and parallel computing, with implementation in R.
 
 ---
 
