@@ -24,8 +24,8 @@ repository               : "chenlei-leng/chenlei-leng.github.io"
 author:
   # Biographic information
   avatar           : "CLeng.jpg"
-  name             : "Dr. Chenlei Leng"
-  pronouns         : "he/him/his" # example: "she/her"  
+  name             : "Chenlei Leng"
+  pronouns         : "Chair Professor" # example: "she/her"  
   bio              : "Statistician, Machine Learner, and Data Scientist"
   location         : "Hong Kong"
   employer         : "Hong Kong Polytechnic University"
