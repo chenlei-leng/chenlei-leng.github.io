@@ -18,13 +18,13 @@ I am passionate about **teaching and mentoring** students in statistics, data sc
 
 ### 🧑‍🏫 Supervision and Mentorship
 
-- Supervised numerous MSc dissertations in statistics, machine learning, and data science, guiding students from project design to final presentation.
+- Supervised numerous MSc dissertations in statistics, machine learning, and data science.
 
 ---
 
 ### 🧭 Teaching Philosophy
 
-I believe in **active learning** through hands-on exercises, real-world data applications, and an emphasis on critical thinking. My teaching aims to create an inclusive and supportive environment where all students feel encouraged to participate, challenge ideas, and achieve their full potential.
+I emphasize **active learning** through hands-on exercises and real-world data, fostering critical thinking in an inclusive and supportive environment.
 
 ---
 
