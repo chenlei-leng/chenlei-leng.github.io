@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am passionate about teaching and mentoring students in statistics, data science, and machine learning. Below is a summary of my teaching experience, courses, and related activities.
+I am passionate about **teaching and mentoring** students in statistics, data science, and machine learning. I have received a **Teaching Excellence Award** and was also honored with a nomination for another. Below is a summary of my teaching experience, courses, and related activities.
 
 ---
 
