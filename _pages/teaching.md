@@ -12,24 +12,24 @@ I am passionate about teaching and mentoring students in statistics, data scienc
 ### 📚 Courses
 
 - **Programming for Data Science**  
-
-A module introducing algorithms for large-scale data analysis, covering methods such as PCA, clustering, Markov chains, bandit models, supervised learning, neural networks, Gaussian processes, and parallel computing, with implementation in R.
+  A module that introduces algorithms and programming techniques for large-scale data analysis. Topics include dimensionality reduction (PCA), clustering, Markov chains, bandit models, supervised learning, neural networks, Gaussian processes, and parallel computing, with practical implementation in R.
 
 ---
 
 ### 🧑‍🏫 Supervision and Mentorship
 
-- Supervised numerous MSc dissertations in statistics and machine learning.
+- Supervised numerous MSc dissertations in statistics, machine learning, and data science, guiding students from project design to final presentation.
 
 ---
 
 ### 🧭 Teaching Philosophy
 
-I believe in active learning through practical exercises, real data examples, and fostering critical thinking. I aim to create an inclusive environment where all students feel encouraged to participate and excel.
+I believe in **active learning** through hands-on exercises, real-world data applications, and an emphasis on critical thinking. My teaching aims to create an inclusive and supportive environment where all students feel encouraged to participate, challenge ideas, and achieve their full potential.
 
 ---
 
-### 🗂 Teaching Resources
+
+
 
 
 
