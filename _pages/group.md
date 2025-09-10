@@ -10,7 +10,7 @@ author_profile: true
 - [Yuanhe Zhang](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang), joint with [Fanghui Liu](https://www.lfhsgre.org)
 - [Rui Feng](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/rfeng)
 - Xinyuan Fan (visiting student from Tsinghua), joint with [Weichi Wu](https://www.stat.tsinghua.edu.cn/info/1023/2412.htm)
-- Wei Lan (visiting student from RUC), joint with [Wenlin Dai](https://sites.google.com/view/wenlindai).
+- Lan Wei (visiting student from RUC), joint with [Wenlin Dai](https://sites.google.com/view/wenlindai).
 
 ---
 
