@@ -7,7 +7,6 @@ author_profile: true
 
 I work on statistical modeling, machine learning, and network science. My research explores the intersection of structure, data, and algorithms, with a focus on both theoretical understanding and real-world applications. My full list of publications can be found on 🔗 [Google Scholar]({{site.author.googlescholar}})
 
-
 ---
 
 ### 📌 Current Research Directions
