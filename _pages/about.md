@@ -16,7 +16,7 @@ I am Chair Professor of Statistics and Machine Learning in the [Department of Ap
 
 I received my bachelor's degree in Mathematics from the [University of Science and Technology of China (USTC)](https://math.ustc.edu.cn/), and a Ph.D. in Statistics from the [University of Wisconsin–Madison](https://stat.wisc.edu/).
 
-I am an Elected Member of the [International Statistical Institute (ISI)](https://isi-web.org/) and a Fellow of the [Institute of Mathematical Statistics (IMS)](https://imstat.org/). My previous roles have included chairing the Research Section of the Royal Statistical Society, co-directing the Oxford–Warwick Statistics Centre for Doctoral Training, and serving as an inaugural Turing Fellow at the Alan Turing Institute. I serve as Associate Editor for JSGS and CSDA, and previously for JRSSB.
+I am an Elected Member of the [International Statistical Institute (ISI)](https://isi-web.org/) and a Fellow of the [Institute of Mathematical Statistics (IMS)](https://imstat.org/). My previous roles have included chairing the Research Section of the Royal Statistical Society, co-directing the Oxford–Warwick Statistics Centre for Doctoral Training, and serving as an inaugural Turing Fellow at the Alan Turing Institute. I serve as Associate Editor for JCGS and CSDA, and previously for JRSSB.
 
 
 
