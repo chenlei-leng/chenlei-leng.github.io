@@ -15,9 +15,6 @@ I work on statistical modeling, machine learning, and network science. My resear
 - **Network Models**  
   Directed and undirected models with reciprocity, transitivity, and latent structure.
 
-- **Pairwise Comparison Models**  
-  Low-rank and structured models for ranking and comparison data.
-
 - **High-Dimensional Data**  
   Theory and methodology for sparse estimation, regularization, and scalable computation in high-dimensional settings.
 
