@@ -28,8 +28,8 @@ author_profile: true
 
 ### 🌍 Visiting Students
 
-- **Lei Wang**, Summer 2016, University of Science and Technology of China  
-- **Rentian Yao**, Summer 2018, Fudan University  
-- **Jiemiao Chen**, Summer 2021, Shandong University  
-- **Yibo Wang**, Summer 2025, University of Science and Technology of China
+- Lei Wang, Summer 2016, University of Science and Technology of China  
+- Rentian Yao, Summer 2018, Fudan University  
+- Jiemiao Chen, Summer 2021, Shandong University  
+- Yibo Wang, Summer 2025, University of Science and Technology of China
 

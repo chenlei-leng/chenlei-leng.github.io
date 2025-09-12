@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am passionate about **teaching and mentoring** students, and have received a **Teaching Excellence Award** as well as a nomination for another. Below is a summary of my teaching experience, courses, and related activities.
+I am passionate about teaching and mentoring students, and have received a Teaching Excellence Award as well as a nomination for another. Below is a summary of my teaching experience, courses, and related activities.
 
 ---
 
@@ -23,8 +23,6 @@ I am passionate about **teaching and mentoring** students, and have received a *
 ---
 
 ### 🧭 Teaching Philosophy
-
-I emphasize **theory and derivation alongside hands-on learning**, using real-world data to foster critical thinking in an inclusive and supportive environment.
 
 ---
 
