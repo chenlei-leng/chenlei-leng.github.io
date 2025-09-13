@@ -9,7 +9,7 @@ I enjoy working with talented and motivated students, and feel privileged to hav
 
 ---
 
-## 🎓 Current PhD Students
+### 🎓 Current PhD Students
 
 - [Yuanhe Zhang](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang) — joint with [Fanghui Liu](https://www.lfhsgre.org)  
 - [Rui Feng](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/rfeng)  
@@ -18,7 +18,7 @@ I enjoy working with talented and motivated students, and feel privileged to hav
 
 ---
 
-## 🎖️ Alumni
+### 🎖️ Alumni
 
 - [Stefan Stein](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/stein)  
 - [Nikolas Kuhlen](https://nkuhlen.github.io)  
@@ -30,7 +30,7 @@ I enjoy working with talented and motivated students, and feel privileged to hav
 
 ---
 
-## 🌍 Visiting Students
+### 🌍 Visiting Students
 
 - Lei Wang — Summer 2016, University of Science and Technology of China  
 - Rentian Yao — Summer 2018, Fudan University  

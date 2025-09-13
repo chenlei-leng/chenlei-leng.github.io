@@ -9,7 +9,7 @@ I work on statistical modeling, machine learning, and network science. My resear
 
 ---
 
-## 📌 Current Research Directions
+### 📌 Current Research Directions
 
 - **Network Models**  
   Directed and undirected models with reciprocity, transitivity, and latent structure.
@@ -25,7 +25,7 @@ I work on statistical modeling, machine learning, and network science. My resear
 
 ---
 
-## ✨ Recent Highlights
+### ✨ Recent Highlights
 
 - Feng, R. and Leng, C. (2025). [*Modelling Directed Networks with Reciprocity*](https://arxiv.org/abs/2411.12871). *Biometrika*, to appear.
 

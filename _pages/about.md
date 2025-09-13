@@ -19,7 +19,7 @@ I am a [Fellow of the Institute of Mathematical Statistics (IMS)](https://imstat
 
 ---
 
-## 🚀 What’s New
+### 🚀 What’s New
 
 I am **recruiting PhD students** with strong backgrounds in mathematics, statistics, or computer science, and a passion for **statistics, machine learning, data science, and AI**. My vision is to build a vibrant and collaborative research group at PolyU, where students are encouraged to tackle fundamental challenges, develop innovative theory and methods, and create work with lasting real-world impact.  
 
