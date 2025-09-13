@@ -5,27 +5,26 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am passionate about teaching and mentoring students, and have received a Teaching Excellence Award as well as a nomination for another. Below is a summary of my teaching experience, courses, and related activities.
+I am passionate about teaching and mentoring, and have received a Teaching Excellence Award and a further nomination. My approach blends rigorous theory with hands-on practice, aiming to equip students with both technical skills and critical thinking.  
 
 ---
 
-### 📚 Courses
+## 📚 Courses  
 
 - **Programming for Data Science**  
-  Covers algorithms and programming for large-scale data analysis, with hands-on implementation in R.
+  Algorithms and programming for large-scale data analysis, with hands-on implementation in R.  
+
+- **Statistics and Machine Learning**  
+  Regression, classification, model selection, Bayesian methods, and statistical learning.  
 
 ---
 
-### 🧑‍🏫 Supervision and Mentorship
+## 🧑‍🏫 Supervision and Mentorship  
 
-- Supervised numerous MSc dissertations in statistics, machine learning, and data science.
-
----
-
-### 🧭 Teaching Philosophy
+- Supervised MSc dissertations and PhD theses in statistics, machine learning, and data science.  
+- Mentored students who have progressed to leading academic and industry roles.  
 
 ---
-
 
 
 

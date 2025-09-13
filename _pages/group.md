@@ -5,7 +5,11 @@ permalink: /group/
 author_profile: true
 ---
 
-### 🎓 Current PhD Students
+I enjoy working with students.
+
+---
+
+## 🎓 Current PhD Students
 
 - [Yuanhe Zhang](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang), joint with [Fanghui Liu](https://www.lfhsgre.org)
 - [Rui Feng](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/rfeng)
@@ -14,7 +18,7 @@ author_profile: true
 
 ---
 
-### 🎖️ Alumni
+## 🎖️ Alumni
 
 - [Stefan Stein](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/stein)
 - [Nikolas Kuhlen](https://nkuhlen.github.io)
@@ -26,7 +30,7 @@ author_profile: true
 
 ---
 
-### 🌍 Visiting Students
+## 🌍 Visiting Students
 
 - Lei Wang, Summer 2016, University of Science and Technology of China  
 - Rentian Yao, Summer 2018, Fudan University  
