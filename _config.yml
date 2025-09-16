@@ -24,7 +24,6 @@ repository               : "chenlei-leng/chenlei-leng.github.io"
 author:
   # Biographic information
   avatar           : "CLeng.jpg"
-  round_avatar: false
   name             : "Chenlei Leng"
   pronouns         : "Chair Professor" # example: "she/her"  
   bio              : "Statistician, Machine Learner, and Data Scientist"
