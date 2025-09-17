@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "Chenlei's Website"
+layout: single
+title: "中文"
+permalink: /cn/
 author_profile: true
-redirect_from: 
-  - /cn/
-  - /cn.html
 ---
 
 **个人简介**
