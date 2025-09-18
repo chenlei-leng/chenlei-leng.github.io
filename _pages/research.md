@@ -33,5 +33,7 @@ I work on statistical modeling, machine learning, and network science. My resear
 
 - Fan, X., Li, B., Leng, C., and Wu, W. (2025). [*Learning Changes in Graphon Attachment Network Models*](https://openreview.net/pdf?id=Jy5Lz5xNUy). *ICML*.
 
+- Fan, X., Ma, F., Leng, C., and Wu, W. (2025). [*Low-Rank Graphon Learning for Networks*](https://openreview.net/pdf?id=1n5TJh3LEb). *NeurIPS*.
+
 ---
 
