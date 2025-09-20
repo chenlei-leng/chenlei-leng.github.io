@@ -9,7 +9,7 @@ redirect_from:
 
 **Brief Bio**
 
-I am a statistician and machine learning researcher working at the intersection of statistics, machine learning, and data science, developing new theory and methodology for analyzing large, complex, and high-dimensional datasets. My research spans high-dimensional inference, network and graph-based models, structured and correlated data, nonparametric and computational methods, and modern applications of artificial intelligence.  
+I am a statistician and machine learning researcher working at the intersection of statistics, machine learning, and data science. My research develops new theory and methodology for analyzing large, complex, and high-dimensional datasets. Areas of focus include high-dimensional inference, network and graph-based models, structured and correlated data, nonparametric and computational methods, Statistical foundations of AI and modern data-driven applications.
 
 I am Chair Professor of Statistics and Machine Learning in the [Department of Applied Mathematics (AMA)](https://www.polyu.edu.hk/ama/) at the [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I have held academic positions at leading institutions worldwide, including the [National University of Singapore (NUS)](https://www.nus.edu.sg/), [Peking University (PKU)](https://www.pku.edu.cn/), the [University of Munich (LMU)](https://www.en.uni-muenchen.de/), and the [University of Warwick](https://warwick.ac.uk/).  
 
