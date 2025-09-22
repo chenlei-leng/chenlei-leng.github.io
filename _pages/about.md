@@ -25,4 +25,6 @@ I am **recruiting PhD students** with strong backgrounds in mathematics, statist
 
 If you are excited about growing as an independent researcher in a supportive environment and contributing to advances at the frontiers of data science, I would be delighted to hear from you. Please send your **CV** and a **short research statement** to 📧 [chenlei.leng@gmail.com](mailto:chenlei.leng@gmail.com). Details on scholarships and admission procedures can be found on the [PolyU Graduate School](https://www.polyu.edu.hk/gs/) website. While I may not be able to reply to every message, I carefully review all applications and will reach out to those who are a strong fit.  
 
+I may also have funding to host **postdoctoral fellows**. Please feel free to get in touch if you are interested.
+
 ---
