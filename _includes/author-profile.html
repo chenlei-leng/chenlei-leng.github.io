@@ -16,31 +16,14 @@
 
   <div class="author__content">
   <div class="author__name">
-    {% if site.data.ui-text[site.locale].author_label %}
-      <h4>{{ site.data.ui-text[site.locale].author_label }}</h4>
+    {% if site.author %}
+      <h3 class="author__name">{{ site.author }}</h3>
     {% endif %}
-    <p class="author__bio">{{ site.bio }}</p>
-    
-    <!-- ADD CONTACT INFO STARTING HERE -->
-    <div class="author__contact" style="margin-top: 15px; font-size: 0.9em;">
-      {% if site.email %}
-        <div><i class="fas fa-envelope" aria-hidden="true"></i> 
-             <a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
-      {% endif %}
-      
-      {% if site.phone %}
-        <div><i class="fas fa-phone" aria-hidden="true"></i> {{ site.phone }}</div>
-      {% endif %}
-      
-      {% if site.office %}
-        <div><i class="fas fa-door-open" aria-hidden="true"></i> {{ site.office }}</div>
-      {% endif %}
-      
-      {% if site.address %}
-        <div><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.address }}</div>
-      {% endif %}
-    </div>
-    <!-- END CONTACT INFO -->
+  </div>
+  <div class="author__bio">
+    {% if site.bio %}
+      <p>{{ site.bio }}</p>
+    {% endif %}
   </div>
 </div>
 
