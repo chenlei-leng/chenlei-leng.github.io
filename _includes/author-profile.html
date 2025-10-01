@@ -15,10 +15,34 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+  <div class="author__name">
+    {% if site.data.ui-text[site.locale].author_label %}
+      <h4>{{ site.data.ui-text[site.locale].author_label }}</h4>
+    {% endif %}
+    <p class="author__bio">{{ site.bio }}</p>
+    
+    <!-- ADD CONTACT INFO STARTING HERE -->
+    <div class="author__contact" style="margin-top: 15px; font-size: 0.9em;">
+      {% if site.email %}
+        <div><i class="fas fa-envelope" aria-hidden="true"></i> 
+             <a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
+      {% endif %}
+      
+      {% if site.phone %}
+        <div><i class="fas fa-phone" aria-hidden="true"></i> {{ site.phone }}</div>
+      {% endif %}
+      
+      {% if site.office %}
+        <div><i class="fas fa-door-open" aria-hidden="true"></i> {{ site.office }}</div>
+      {% endif %}
+      
+      {% if site.address %}
+        <div><i class="fas fa-map-marker-alt" aria-hidden="true"></i> {{ site.address }}</div>
+      {% endif %}
+    </div>
+    <!-- END CONTACT INFO -->
   </div>
+</div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
