@@ -13,7 +13,7 @@ I actively contribute to the research community through invited talks, keynote l
 
 - Invited Speaker — [New Trends in Statistical Network Data Analysis](https://www.math.uni-leipzig.de/statnet25/), Grimma, Germany, 22-25 September 2025.
 
-- Keynote Speaker — [12th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2025)](https://dsaa.ieee.org/2025/), Birmingham, UK, 9–12 October 2025.  
+- Keynote Speaker — 12th [IEEE International Conference on Data Science and Advanced Analytics (DSAA)](https://dsaa.co), Birmingham, UK, 9–12 October 2025.  
 
 ---
 
