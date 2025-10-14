@@ -21,7 +21,9 @@ I am a [Fellow of the Institute of Mathematical Statistics (IMS)](https://imstat
 
 ### 🚀 What’s New
 
-I am **recruiting PhD students and postdoctoral fellows** with strong backgrounds in mathematics, statistics, or computer science, and a passion for **statistics, machine learning, data science, and AI**. My vision is to build a vibrant and collaborative research group at PolyU, where students are encouraged to tackle fundamental challenges, develop innovative theory and methods, and create work with lasting real-world impact.  
+I am recruiting **PhD students and postdoctoral fellows** with strong mathematical and statistical foundations, and genuine curiosity about theory-driven advances in modern data science. My group’s research lies at the interface of statistics, machine learning, and artificial intelligence, emphasizing rigorous theory, innovative methodology, and impactful applications.
+
+For **prospective PhD students**, I particularly welcome applications from candidates trained at reputable universities with solid backgrounds in mathematics, statistics, or computer science. Since my projects often blend statistical theory and methodological development, I strongly encourage applicants to read some of my recent papers to better understand our research focus and expectations.
 
 If you are excited about growing as an independent researcher in a supportive environment and contributing to advances at the frontiers of data science, I would be delighted to hear from you. Please send your **CV** and a **short research statement** to 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk). Details on PhD scholarships and admission procedures can be found on the [PolyU Graduate School](https://www.polyu.edu.hk/gs/) website. While I may not be able to reply to every message, I carefully review all applications and will reach out to those who are a strong fit.  
 
