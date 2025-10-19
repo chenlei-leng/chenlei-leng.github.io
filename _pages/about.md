@@ -21,10 +21,24 @@ I am a [Fellow of the Institute of Mathematical Statistics (IMS)](https://imstat
 
 ### 🚀 What’s New
 
-I am recruiting **PhD students, summer internship students, and postdoctoral fellows** with strong mathematical and statistical foundations, and genuine curiosity about theory-driven advances in modern data science. 
+I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** with strong mathematical and statistical foundations, and a genuine curiosity for **theory-driven advances in modern data science**.
 
-For **prospective PhD students**, I particularly welcome applications from candidates trained at reputable universities with solid backgrounds in mathematics, statistics, or computer science. Since my projects often blend statistical theory and methodological development, I strongly encourage applicants to read some of my recent papers to better understand our research focus and expectations. 
+### For Prospective PhD Students
 
-If you have interest in working with me, please send your **CV** and a **research statement** to 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk). In your research statement, I am most interested in **your specific research interests** and **your perspective on the open problems in my field**, rather than a restatement of my published work. Details on PhD scholarships and admission procedures can be found on the [PolyU Graduate School](https://www.polyu.edu.hk/gs/) website. While I may not be able to reply to every message, I carefully review all applications and will reach out to those who are a strong fit.  
+I am particularly interested in candidates with rigorous training in mathematics, statistics, or computer science. 
+**I strongly encourage prospective PhD applicants to familiarize themselves with my recent papers.** To assess our mutual fit, your application should clearly articulate your own research direction.
 
+### How to Apply
+
+If you are interested in joining our team, please email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with your **CV** and a **research statement**.
+
+- **For PhD applicants,** your research statement is crucial. I am most interested in:
+  - **Your specific research interests**
+  - **Your perspective on open problems in my field**
+
+  > This helps me understand your critical thinking and motivation beyond a restatement of my published work.
+
+- Details on PhD scholarships and admission procedures can be found at the [PolyU Graduate School](https://www.polyu.edu.hk/gs/).
+
+*While I may not be able to reply to every message, I carefully review all applications and will reach out to those who are a strong fit.*
 ---
