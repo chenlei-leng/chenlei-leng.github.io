@@ -26,7 +26,7 @@ I am actively recruiting **PhD students, postdoctoral fellows, and summer intern
 ### For Prospective PhD Students
 
 I am particularly interested in candidates with rigorous training in mathematics, statistics, or computer science. 
-**I strongly encourage prospective PhD applicants to familiarize themselves with my recent papers.** To assess our mutual fit, your application should clearly articulate your own research direction.
+**I strongly encourage prospective PhD applicants to familiarize themselves with my recent papers.** 
 
 ### How to Apply
 
