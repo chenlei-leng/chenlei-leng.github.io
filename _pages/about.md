@@ -23,12 +23,12 @@ I am a [Fellow of the Institute of Mathematical Statistics (IMS)](https://imstat
 
 I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** with strong mathematical and statistical foundations, and a genuine curiosity for **theory-driven advances in modern data science**.
 
-#### For Prospective PhD Students
+### For Prospective PhD Students
 
 I am particularly interested in candidates with rigorous training in mathematics, statistics, or computer science. 
 **I strongly encourage prospective PhD applicants to familiarize themselves with my recent papers.** 
 
-#### How to Apply
+### How to Apply
 
 If you are interested in joining our team, please email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with your **CV** and a **research statement**.
 
