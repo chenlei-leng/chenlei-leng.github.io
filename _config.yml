@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "CLeng.jpg"
   name             : "Chenlei Leng"
-  pronouns         : "Chair Professor" # example: "she/her"  
-  bio              : "Statistician, Machine Learner, and Data Scientist"
+  pronouns         : "He/Him/His" # example: "she/her"  
+  bio              : "Chair Professor of Statistics and Machine Learning"
   location         : "Hong Kong"
   employer         : "Hong Kong Polytechnic University"
-  uri              : # URL
+  uri              : https://chenlei-leng.github.io/
   email            : "chenlei.leng@polyu.edu.hk" 
 
   # Academic websites
