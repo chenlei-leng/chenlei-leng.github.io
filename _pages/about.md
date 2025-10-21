@@ -19,7 +19,10 @@ I am a [Fellow of the Institute of Mathematical Statistics (IMS)](https://imstat
 
 ---
 
-**📢 What's New: I am currently accepting applications for PhD students, postdoctoral fellows, and summer interns for 2025-2026.**
+<div style="background-color: #e3f2fd; border-left: 4px solid #2196F3; padding: 12px 15px; margin: 15px 0;">
+<strong style="color: #1976D2;">📢 NOW RECRUITING FOR 2025-2026</strong><br>
+PhD students, postdoctoral fellows, and summer interns
+</div>
 
 I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** who possess strong mathematical and statistical foundations and a genuine curiosity for **theory-driven advances in modern data science**. If you are passionate about tackling challenging problems with rigor and creativity, I invite you to apply.
 
