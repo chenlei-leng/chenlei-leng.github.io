@@ -62,7 +62,7 @@ Please also include in your research statement:
 
 ### PhD Program Details
 - **Scholarships & Admission**: [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
-- **Information Leaflet**: [English](/files/HKPFS 2026-27 leaflet_EN.pdf) | [Chinese](/files/HKPFS 2026-27 leaflet_SC.pdf)
+- **Information Leaflet**: [English](/files/HKPFS 2026-27 leaflet_EN.pdf) or [Chinese](/files/HKPFS 2026-27 leaflet_SC.pdf)
 - **Info Day Recordings**: [Watch here](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/)
 
 ---
