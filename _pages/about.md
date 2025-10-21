@@ -50,7 +50,7 @@ Your research statement is especially important. Please address the following:
 
 ---
 
-## 📌 Additional Information
+## Additional Information
 
 - For details on PhD scholarships and admission procedures, visit the [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
 - Download the PhD info leaflet in [English](/files/HKPFS 2026-27 leaflet_EN.pdf) or [Chinese](/files/HKPFS 2026-27 leaflet_SC.pdf)
