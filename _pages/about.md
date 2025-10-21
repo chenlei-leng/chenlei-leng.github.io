@@ -38,7 +38,7 @@ If you are interested in joining our team, please email me at 📧 [chenlei.leng
 
   > This helps me understand your critical thinking and motivation beyond a restatement of my published work.
 
-- Details on PhD scholarships and admission procedures can be found at the [PolyU Graduate School](https://www.polyu.edu.hk/gs/).
+- Details on PhD scholarships and admission procedures can be found at the [PolyU Graduate School](https://www.polyu.edu.hk/gs/). See [leaflet in English](/files/HKPFS 2026-27 leaflet_EN.pdf) or [leaflet in Chinese](/files/HKPFS 2026-27 leaflet_SC.pdf)
 
 While I may not be able to reply to every message, I carefully review all applications and will reach out to those who are a strong fit.
 
