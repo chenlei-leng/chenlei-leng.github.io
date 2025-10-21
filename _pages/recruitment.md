@@ -24,7 +24,7 @@ I welcome applications from motivated students interested in gaining research ex
 To express your interest, please email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with the following:
 
 - Your **CV**
-- Your **Transcripts**
+- Your **transcripts**
 - A **research statement**
 
 ### For PhD Applicants:
