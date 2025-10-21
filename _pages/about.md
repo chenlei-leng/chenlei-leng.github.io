@@ -29,6 +29,10 @@ I am particularly interested in candidates with rigorous training in **mathemati
 
 **Prospective PhD applicants are strongly encouraged to familiarize themselves with my recent publications** to better understand my research direction and expectations.
 
+## For Summer Interns
+
+I welcome applications from motivated students interested in gaining research experience in theoretical data science. **Ideal candidates come from top universities with outstanding academic records.** Please note that **internship positions are unfunded** and typically offered on a voluntary basis.
+
 ### How to Apply
 
 To express your interest, please email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with the following:
