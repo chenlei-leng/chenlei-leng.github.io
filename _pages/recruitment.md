@@ -9,7 +9,7 @@ author_profile: true
 
 I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** who possess strong mathematical and statistical foundations and a genuine curiosity for **theory-driven advances in modern data science**. If you are passionate about tackling challenging problems with rigor and creativity, I invite you to apply.
 
-### For Prospective PhD Students
+### For Prospective PhD Students (Application Deadline: 1 Dec 2025)
 
 I am particularly interested in candidates with rigorous training in **mathematics, statistics, or computer science**. A solid theoretical foundation and a keen interest in data science theory are essential.
 
