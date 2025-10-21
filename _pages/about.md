@@ -19,7 +19,7 @@ I am a [Fellow of the Institute of Mathematical Statistics (IMS)](https://imstat
 
 ---
 
-## 🚀 Join Our Research Team
+**Join Our Research Team**
 
 I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** who possess strong mathematical and statistical foundations and a genuine curiosity for **theory-driven advances in modern data science**. If you are passionate about tackling challenging problems with rigor and creativity, I invite you to apply.
 
