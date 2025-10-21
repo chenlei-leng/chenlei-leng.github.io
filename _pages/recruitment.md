@@ -7,42 +7,70 @@ author_profile: true
 
 ## 🚀 Join Our Research Team
 
-I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** who possess strong mathematical and statistical foundations and a genuine curiosity for **theory-driven advances in modern data science**. If you are passionate about tackling challenging problems with rigor and creativity, I invite you to apply.
+I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** with strong mathematical and statistical foundations, and a genuine curiosity for **theory-driven advances in modern data science**. If you're passionate about tackling challenging problems with rigor and creativity, I invite you to apply.
 
-### For Prospective PhD Students (Application Deadline: 1 Dec 2025)
+---
 
-I am particularly interested in candidates with rigorous training in **mathematics, statistics, or computer science**. A solid theoretical foundation and a keen interest in data science theory are essential.
+## 📋 Open Positions
 
-**Prospective PhD applicants are strongly encouraged to familiarize themselves with my recent publications** to better understand my research direction and expectations.
+### 🎓 PhD Students
+**Application Deadline: December 1, 2025**
 
-### For Summer Interns
+I seek candidates with rigorous training in **mathematics, statistics, or computer science**. A solid theoretical foundation and keen interest in data science theory are essential.
 
-I welcome applications from motivated students interested in gaining research experience in theoretical data science. **Ideal candidates come from top universities with outstanding academic records.** Please note that **internship positions are unfunded** and typically offered on a voluntary basis.
+**Prospective PhD applicants are strongly encouraged to review my recent publications** to understand my research direction and expectations.
 
-### How to Apply
+### 🔬 Postdoctoral Fellows
+Positions available for recent PhD graduates with strong research backgrounds in statistical theory, machine learning, or related fields.
 
-To express your interest, please email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with the following:
+### ☀️ Summer Interns
+I welcome applications from motivated students interested in research experience in theoretical data science. 
 
-- Your **CV**
-- Your **transcripts**
-- A **research statement**
+**Note:** 
+- Ideal candidates come from top universities with outstanding academic records
+- Internship positions are unfunded and offered on a voluntary basis
 
-### For PhD Applicants:
-Your research statement is especially important. Please address the following:
+---
 
+## 📝 How to Apply
+
+Email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with the following documents:
+
+### Required for All Applicants
+- **Curriculum Vitae (CV)**
+- **Academic transcripts**
+- **Research statement**
+
+### Additional Requirements by Position
+
+#### PhD Applicants
+Your research statement should address:
 - Your **specific research interests**
-- Your **perspective on open problems in my field**
+- Your **perspective on open problems in my research field**
 
 > This helps me assess your critical thinking, motivation, and alignment with my research—beyond a simple summary of my published work.
 
-### Additional Information
-
-- For details on PhD scholarships and admission procedures, visit the [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
-- Download the PhD info leaflet in [English](/files/HKPFS 2026-27 leaflet_EN.pdf) or [Chinese](/files/HKPFS 2026-27 leaflet_SC.pdf)
-- Watch recordings of the PhD info days [here](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/)
-
-### What to Expect
-
-While I may not be able to respond to every inquiry, I carefully review all applications and will reach out to candidates who are a strong fit for our team.
+#### Intern Applicants
+Please also include in your research statement:
+- Your availability (dates/duration)
+- What you hope to gain from the internship
+- Relevant coursework and technical skills
 
 ---
+
+## ℹ️ Additional Information
+
+### PhD Program Details
+- **Scholarships & Admission**: [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
+- **Information Leaflet**: [English](/files/HKPFS 2026-27 leaflet_EN.pdf) | [Chinese](/files/HKPFS 2026-27 leaflet_SC.pdf)
+- **Info Day Recordings**: [Watch here](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/)
+
+---
+
+## ⏳ What to Expect
+
+While I cannot respond to every inquiry, I carefully review all applications and will contact candidates who are a strong fit for our research team.
+
+---
+
+*Last updated: [Current Date]*
