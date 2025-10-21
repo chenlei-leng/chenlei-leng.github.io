@@ -19,10 +19,12 @@ I am a [Fellow of the Institute of Mathematical Statistics (IMS)](https://imstat
 
 ---
 
-**Join Our Research Team**
+## 🚀 Join Our Research Team
+
+<span style="background-color: #ff6b6b; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.9em; font-weight: bold;">🔍 ACTIVELY RECRUITING</span>
 
 I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** who possess strong mathematical and statistical foundations and a genuine curiosity for **theory-driven advances in modern data science**. If you are passionate about tackling challenging problems with rigor and creativity, I invite you to apply.
 
-For more information about joining our research team, please visit our [Recruitment Page](/recruitment/).
+For more information about joining our research team, please visit our [Recruitment Page]({{ '/recruitment/' | relative_url }}).
 
 ---
