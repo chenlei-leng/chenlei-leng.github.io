@@ -72,5 +72,3 @@ Please also include in your research statement:
 While I cannot respond to every inquiry, I carefully review all applications and will contact candidates who are a strong fit for our research team.
 
 ---
-
-*Last updated: [Current Date]*
