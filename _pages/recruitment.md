@@ -11,19 +11,19 @@ I am actively recruiting **PhD students, postdoctoral fellows, and summer intern
 
 ---
 
-## 📋 Open Positions
+## Open Positions
 
-### 🎓 PhD Students
+### PhD Students
 **Application Deadline: December 1, 2025**
 
 I seek candidates with rigorous training in **mathematics, statistics, or computer science**. A solid theoretical foundation and keen interest in data science theory are essential.
 
 **Prospective PhD applicants are strongly encouraged to review my recent publications** to understand my research direction and expectations.
 
-### 🔬 Postdoctoral Fellows
+### Postdoctoral Fellows
 Positions available for recent PhD graduates with strong research backgrounds in statistical theory, machine learning, or related fields.
 
-### ☀️ Summer Interns
+### Summer Interns
 I welcome applications from motivated students interested in research experience in theoretical data science. 
 
 **Note:** 
@@ -32,7 +32,7 @@ I welcome applications from motivated students interested in research experience
 
 ---
 
-## 📝 How to Apply
+## How to Apply
 
 Email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with the following documents:
 
@@ -58,7 +58,7 @@ Please also include in your research statement:
 
 ---
 
-## ℹ️ Additional Information
+## Additional Information
 
 ### PhD Program Details
 - **Scholarships & Admission**: [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
@@ -67,7 +67,7 @@ Please also include in your research statement:
 
 ---
 
-## ⏳ What to Expect
+## What to Expect
 
 While I cannot respond to every inquiry, I carefully review all applications and will contact candidates who are a strong fit for our research team.
 
