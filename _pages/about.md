@@ -23,15 +23,11 @@ I am a [Fellow of the Institute of Mathematical Statistics (IMS)](https://imstat
 
 I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** who possess strong mathematical and statistical foundations and a genuine curiosity for **theory-driven advances in modern data science**. If you are passionate about tackling challenging problems with rigor and creativity, I invite you to apply.
 
----
-
 ### For Prospective PhD Students
 
 I am particularly interested in candidates with rigorous training in **mathematics, statistics, or computer science**. A solid theoretical foundation and a keen interest in data science theory are essential.
 
 **Prospective PhD applicants are strongly encouraged to familiarize themselves with my recent publications** to better understand my research direction and expectations.
-
----
 
 ### How to Apply
 
@@ -48,15 +44,11 @@ Your research statement is especially important. Please address the following:
 
 > This helps me assess your critical thinking, motivation, and alignment with my research—beyond a simple summary of my published work.
 
----
-
 ### Additional Information
 
 - For details on PhD scholarships and admission procedures, visit the [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
 - Download the PhD info leaflet in [English](/files/HKPFS 2026-27 leaflet_EN.pdf) or [Chinese](/files/HKPFS 2026-27 leaflet_SC.pdf)
 - Watch recordings of the PhD info day [here](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/)
-
----
 
 ### What to Expect
 
