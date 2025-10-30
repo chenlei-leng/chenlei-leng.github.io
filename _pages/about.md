@@ -32,5 +32,5 @@ For more information about joining our research team, please visit our [Recruitm
 
 ## Contact
 
-- **Office:** GH809, The Hong Kong Polytechnic University  
+- **Office:** [GH809, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/campus-map/) 
 - **Phone:** +852 3400 3974
