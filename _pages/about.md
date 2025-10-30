@@ -29,3 +29,8 @@ I am actively recruiting **PhD students, postdoctoral fellows, and summer intern
 For more information about joining our research team, please visit our [Recruitment Page]({{ '/recruitment/' | relative_url }}).
 
 ---
+
+## Contact
+
+- **Office:** GH809, The Hong Kong Polytechnic University  
+- **Phone:** +852 3400 3974
