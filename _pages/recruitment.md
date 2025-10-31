@@ -69,6 +69,6 @@ Please also include in your research statement:
 
 ## What to Expect
 
-While I cannot respond to every inquiry, I carefully review all applications and will contact candidates who are a strong fit for our research team.
+While I cannot respond to every inquiry, I carefully review all applications and will contact candidates who are a strong fit for our research team.  If you do not hear from us within two weeks, please assume that your application was not successful this time.
 
 ---
