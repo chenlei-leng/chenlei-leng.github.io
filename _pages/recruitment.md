@@ -21,7 +21,7 @@ I seek candidates with rigorous training in **mathematics, statistics, or comput
 **Prospective PhD applicants are strongly encouraged to review my recent publications** to understand my research direction and expectations.
 
 ### Postdoctoral Fellows
-Positions available for recent PhD graduates with strong research backgrounds in statistical theory, machine learning, or related fields.
+Positions available for recent PhD graduates with strong research backgrounds in statistical theory, machine learning, or related fields. See [job advertisement](https://jobs.polyu.edu.hk/job_detail.php?job=251104001) on how to apply.
 
 ### Summer Interns
 I welcome applications from motivated students interested in research experience in theoretical data science. 
