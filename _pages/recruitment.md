@@ -43,14 +43,14 @@ Email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) w
 
 ### Additional Requirements by Position
 
-#### PhD Applicants
+### PhD Applicants
 Your research statement should address:
 - Your **specific research interests**
 - Your **perspective on open problems in my research field**
 
 > This helps me assess your critical thinking, motivation, and alignment with my research—beyond a simple summary of my published work.
 
-#### Intern Applicants
+### Intern Applicants
 Please also include in your research statement:
 - Your availability (dates/duration)
 - What you hope to gain from the internship
