@@ -14,7 +14,7 @@ I am actively recruiting **PhD students, postdoctoral fellows, and summer intern
 ## Open Positions
 
 ### PhD Students
-**Application Deadline: December 1, 2025**
+**Application Deadline for Hong Kong PhD Fellowship Scheme (HKPFS) / PolyU Presidential PhD Fellowship Scheme: December 1, 2025**
 
 I seek candidates with rigorous training in **mathematics, statistics, or computer science**. A solid theoretical foundation and keen interest in data science theory are essential.
 
