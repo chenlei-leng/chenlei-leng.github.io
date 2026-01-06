@@ -1,73 +1,70 @@
 ---
 layout: single
-title: "Recruitment"
+title: "Join Our Research Team"
 permalink: /recruitment/
 author_profile: true
 ---
 
-## 🚀 Join Our Research Team
+## 🚀 Join Our Team
 
-I am actively recruiting **PhD students, postdoctoral fellows, and summer interns** with strong mathematical and statistical foundations, and a genuine curiosity for **theory-driven advances in modern data science**. If you're passionate about tackling challenging problems with rigor and creativity, I invite you to apply.
-
----
-
-## Open Positions
-
-### PhD Students (rolling deadlines)
-
-I seek candidates with rigorous training in **mathematics, statistics, or computer science**. A solid theoretical foundation and keen interest in data science theory are essential.
-
-**Prospective PhD applicants are strongly encouraged to review my recent publications** to understand my research direction and expectations.
-
-### Postdoctoral Fellows
-Positions available for recent PhD graduates with strong research backgrounds in statistical theory, machine learning, or related fields. See [job advertisement](https://jobs.polyu.edu.hk/job_detail.php?job=251104001) on how to apply.
-
-### Summer Interns
-I welcome applications from motivated students interested in research experience in theoretical data science. 
-
-**Note:** 
-- Ideal candidates come from top universities with outstanding academic records
-- Internship positions are unfunded and offered on a voluntary basis
+We seek brilliant minds with **mathematical rigor** and **creative curiosity** to advance the theoretical foundations of modern data science. If you're passionate about solving deep problems at the intersection of statistics, machine learning, and mathematics, we invite you to join our collaborative research team.
 
 ---
 
-## How to Apply
+## 📢 Open Positions
 
-Email me at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with the following documents:
+### 🔬 PhD Students  
+**Rolling admissions | Fully-funded scholarships available**
 
-### Required for All Applicants
+Ideal candidates possess strong backgrounds in **mathematics, statistics, or theoretical computer science** and a demonstrated interest in developing novel theory for data-driven challenges.
+
+> **Prospective applicants are strongly encouraged to review my recent publications to ensure research alignment.**
+
+### 🧪 Postdoctoral Fellows  
+For recent PhD graduates with exceptional research records in **statistical theory, machine learning, or related fields**. You will lead independent projects while contributing to our collaborative research vision.
+
+**→ Full position details:** [Postdoctoral Fellow Advertisement](https://jobs.polyu.edu.hk/job_detail.php?job=251104001)
+
+### 💡 Summer Research Interns  
+Outstanding undergraduate or master's students can gain hands-on research experience in theoretical data science. You'll work on focused problems under direct mentorship.
+
+*Note: Internships are voluntary and unfunded. Preference is given to top-tier students with excellent academic records.*
+
+---
+
+## 📄 How to Apply
+
+Email **Prof. Chenlei Leng** at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with the subject line:  
+**"Application – [Position] – [Your Name]"**
+
+### 📎 Required for All Applicants
 - **Curriculum Vitae (CV)**
+- **Research Statement** – detailing your interests, background, and motivation
+
+### 🎓 Additional for PhD Applicants
 - **Academic transcripts**
-- **Research statement**
+- Your research statement should specifically address:
+  - How your interests connect to **our research themes**
+  - Your perspective on **1-2 open challenges** in our field (please go beyond summarizing existing work)
 
-### Additional Requirements by Position
-
-### PhD Applicants
-Your research statement should address:
-- Your **specific research interests**
-- Your **perspective on open problems in my research field**
-
-> This helps me assess your critical thinking, motivation, and alignment with my research—beyond a simple summary of my published work.
-
-### Intern Applicants
-Please also include in your research statement:
-- Your availability (dates/duration)
-- What you hope to gain from the internship
-- Relevant coursework and technical skills
+### 🌐 Additional for Intern Applicants
+- **Availability** (dates and duration)
+- **Learning objectives** for the internship
+- **Relevant coursework and technical skills**
 
 ---
 
-## Additional Information
+## 🏫 About Our Research Environment
 
-### PhD Program Details
-- **Scholarships & Admission**: [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
-- **Information Leaflet**: [English](/files/HKPFS 2026-27 leaflet_EN.pdf) or [Chinese](/files/HKPFS 2026-27 leaflet_SC.pdf)
-- **Info Day Recordings**: [Watch here](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/)
+- **PhD Funding & Admissions:** [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
+- **Virtual Information Sessions:** [2025 PhD Info Day Recordings](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/)
 
----
-
-## What to Expect
-
-While I cannot respond to every inquiry, I carefully review all applications and will contact candidates who are a strong fit for our research team.  If you do not hear from us within two weeks, please assume that your application was not successful this time.
+Our group is part of a vibrant, interdisciplinary research community at The Hong Kong Polytechnic University, located in one of Asia's most dynamic innovation hubs.
 
 ---
+
+## ⏳ After You Apply
+
+We carefully review every application. If your background aligns closely with our research needs, we will contact you within **two weeks** to discuss next steps. Due to application volume, we cannot respond to all inquiries individually.
+
+**We look forward to exploring how your talents could contribute to groundbreaking research!**
