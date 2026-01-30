@@ -20,10 +20,15 @@ Ideal candidates possess strong backgrounds in **mathematics, statistics, or the
 
 > **Prospective applicants are strongly encouraged to review my recent publications to ensure research alignment.**
 
-**Collaborative PhD Opportunities:**
-We actively participate in the following university-led collaborative schemes:
-*   **Dual PhD Degree Programmes** ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/)): Earn a PhD degree from both PolyU and an international partner university.
-*   **Joint PhD Supervision Scheme** ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/)): For current PhD students from other leading universities to conduct 12 months of funded research at PolyU.
+#### **Collaborative PhD Programmes**
+
+Our group actively participates in international collaborations through two structured schemes:
+
+- **Dual PhD Degree Programmes** ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/))  
+  Earn a PhD degree from both PolyU and a prestigious partner university. Students typically split their study time between the two institutions and fulfill the requirements of both programmes to receive two separate PhD parchments.
+
+- **Joint PhD Supervision Scheme** ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/))  
+  Designed for current PhD students from leading global universities to spend 12 months conducting research at PolyU as a Research Assistant, under joint supervision from their home university and PolyU.
 
 ### 🧪 Postdoctoral Fellows  
 For recent PhD graduates with exceptional research records in **statistical theory, machine learning, or related fields**. You will lead independent projects while contributing to our collaborative research vision.
