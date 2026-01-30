@@ -20,7 +20,7 @@ Ideal candidates possess strong backgrounds in **mathematics, statistics, or the
 
 > **Prospective applicants are strongly encouraged to review my recent publications to ensure research alignment.**
 
-#### **Collaborative PhD Programmes**
+### **Collaborative PhD Programmes**
 
 Our group actively participates in international collaborations through two structured schemes:
 
