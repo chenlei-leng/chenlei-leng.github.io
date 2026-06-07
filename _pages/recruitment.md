@@ -16,7 +16,7 @@ We seek brilliant minds with **mathematical rigor** and **creative curiosity** t
 ### 🔬 PhD Students  
 **Rolling admissions | Fully-funded scholarships available**
 
-Ideal candidates possess strong backgrounds in **mathematics, statistics, or theoretical computer science** and a demonstrated interest in developing novel theory for data-driven challenges.
+We seek candidates with strong roots in mathematics, statistics, or theoretical computer science. Ideal students show a passion for developing novel theories to solve data-driven challenges. Applicants should hold a math-related GPA of at least 85/100 from a 985 university, or 80/100 from a top 7 Chinese university (or the international equivalent). Prior research experience is highly valued and will give your application a distinct advantage.
 
 > **Prospective applicants are strongly encouraged to review my recent publications to ensure research alignment.**
 
