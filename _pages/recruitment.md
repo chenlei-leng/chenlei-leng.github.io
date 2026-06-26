@@ -31,10 +31,10 @@ Our group actively participates in international collaborations through two stru
   Designed for current PhD students from leading global universities to spend 12 months conducting research at PolyU as a Research Assistant, under joint supervision from their home university and PolyU.
 
 ### 🧪 Postdoctoral Fellows  
-For recent PhD graduates with exceptional research records in **statistical theory, machine learning, or related fields**. You will lead independent projects while contributing to our collaborative research vision.
+For recent PhD graduates with exceptional research records in **statistical theory, machine learning, or related fields**.
 
-**→ Full position details:** (As of June 2026, one postdoc fellow position is open)
- [Postdoctoral Fellow Advertisement](https://jobs.polyu.edu.hk/job_detail.php?job=251104001) 
+**→ Full position details:** (As of June 2026, one postdoc fellow position is open). Please contact me directly.
+ 
 ### 💡 Summer Research Interns  
 Outstanding undergraduate or master's students can gain hands-on research experience in theoretical data science. You'll work on focused problems under direct mentorship.
 
