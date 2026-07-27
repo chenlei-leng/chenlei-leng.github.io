@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Join Our Research Team"
+title: "Join Our Team"
 permalink: /recruitment/
 author_profile: true
 ---
