@@ -7,7 +7,7 @@ author_profile: true
 
 ## 🚀 Join Our Team
 
-We seek brilliant minds with **mathematical rigor** and **creative curiosity** to advance the theoretical foundations of modern data science. If you're passionate about statistics, machine learning, and mathematics, join our collaborative research team.
+We seek candidates with **mathematical rigor** and **creative curiosity** to advance the theoretical foundations of modern data science. If you're passionate about statistics, machine learning, and mathematics, join our team.
 
 ---
 
@@ -16,7 +16,7 @@ We seek brilliant minds with **mathematical rigor** and **creative curiosity** t
 ### 🔬 PhD Students  
 **Rolling admissions | Fully-funded scholarships available**
 
-We seek candidates with strong backgrounds in mathematics, statistics, or theoretical computer science. Ideal applicants show passion for developing novel theories for data-driven challenges. Minimum GPA: 85/100 from a 985 university, or 80/100 from a top-7 Chinese university (or international equivalent). Prior research experience is a strong plus.
+Ideal applicants show passion for developing novel theories for data-driven challenges. Minimum GPA: 85/100 from a 985 university, or 80/100 from a top-7 Chinese university (or international equivalent). Prior research experience is a strong plus.
 
 > **Review my recent publications to ensure research alignment.**
 
