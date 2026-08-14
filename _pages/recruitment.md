@@ -7,7 +7,7 @@ author_profile: true
 
 ## 🚀 Join Our Team
 
-We seek candidates with **mathematical rigor** and **creative curiosity** to advance the theoretical foundations of modern data science. If you're passionate about statistics, machine learning, and mathematics, join our team.
+We seek candidates with **mathematical rigor** and **curiosity** to advance the theoretical foundations of modern data science. If you're passionate about statistics, machine learning, mathematics, and theoretical computer science, please feel free to get in touch regarding PhD/Postdoc positions.
 
 ---
 
@@ -16,7 +16,7 @@ We seek candidates with **mathematical rigor** and **creative curiosity** to adv
 ### 🔬 PhD Students  
 **Rolling admissions | Fully-funded scholarships available**
 
-Ideal applicants show passion for developing novel theories for data-driven challenges. Minimum GPA: 85/100 from a 985 university, or 80/100 from a top-7 Chinese university (or international equivalent). Prior research experience is a strong plus.
+Applicants show passion for developing novel theories for data-driven challenges. Minimum GPA: 85/100 from a 985 university, or 80/100 from a top-7 Chinese university (or international equivalent). Prior research experience is a strong plus.
 
 > **Review my recent publications to ensure research alignment.**
 
@@ -31,7 +31,7 @@ We participate in two international collaboration schemes:
   Current PhD students from leading global universities spend 12 months at PolyU as Research Assistants under joint supervision.
 
 ### 🧪 Postdoctoral Fellows  
-Recent PhD graduates with exceptional records in **statistical theory, machine learning, or related fields**. One position is open as of June 2026. Contact me directly.
+Recent PhD graduates with exceptional records in **statistical theory, machine learning, or related fields**. One position is open as of August 2026. Contact me directly.
 
 ### 💡 Summer Research Interns  
 Outstanding undergraduate or master's students gain hands-on research experience under direct mentorship.
