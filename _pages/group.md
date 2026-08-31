@@ -5,21 +5,32 @@ permalink: /group/
 author_profile: true
 ---
 
-I enjoy working with talented and motivated students, and feel privileged to have mentored many who have gone on to successful careers in academia and industry.  
+I am fortunate to work with a group of talented and motivated researchers. It has been a privilege to mentor students and postdocs who have gone on to successful careers in both academia and industry.
 
 ---
 
 ### 🎓 Current PhD Students
 
-- [Yuanhe Zhang](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang) — joint with [Fanghui Liu](https://www.lfhsgre.org)  
-- [Rui Feng](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/rfeng)  
-- Xinyuan Fan (visiting from Tsinghua University) — joint with [Weichi Wu](https://www.stat.tsinghua.edu.cn/info/1023/2412.htm)  
-- Lan Wei (visiting from Renmin University of China) — joint with [Wenlin Dai](https://sites.google.com/view/wenlindai)  
+- Jessi Yixi Zhan
+
+---
+
+### 🎓 Current Postdoctoral Fellows
+
+- Shengbin Zheng
+
+---
+
+### 🎓 Current Visitors
+
+- Yuxuan Peng — Visiting PhD Student, East China Normal University  
+- Yuxia Ding — Visiting Undergraduate Student, University of Science and Technology of China
 
 ---
 
 ### 🎖️ Alumni
 
+- [Rui Feng](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/rfeng)  
 - [Stefan Stein](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/stein)  
 - [Nikolas Kuhlen](https://nkuhlen.github.io)  
 - [Lizhu Tao](http://www2.warwick.ac.uk/fac/sci/statistics/staff/research_students/tao)  
@@ -30,11 +41,11 @@ I enjoy working with talented and motivated students, and feel privileged to hav
 
 ---
 
-### 🌍 Visiting Students
+### 🌍 Past Visiting Students
 
-- Lei Wang — Summer 2016, University of Science and Technology of China  
-- Rentian Yao — Summer 2018, Fudan University  
-- Jiemiao Chen — Summer 2021, Shandong University  
-- Yibo Wang — Summer 2025, University of Science and Technology of China  
-
----
+- Lei Wang — Visiting Undergraduate Student, University of Science and Technology of China (Summer 2016)  
+- Rentian Yao — Visiting Undergraduate Student, Fudan University (Summer 2018)  
+- Jiemiao Chen — Visiting Undergraduate Student, Shandong University (Summer 2021)  
+- Yibo Wang — Visiting Undergraduate Student, University of Science and Technology of China (Summer 2025)  
+- Lan Wei — Visiting PhD Student, Renmin University of China (2025)  
+- Xinyuan Fan — Visiting PhD Student, Tsinghua University (2025)
