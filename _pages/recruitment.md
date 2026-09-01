@@ -16,7 +16,7 @@ We seek candidates with **mathematical rigor** and **curiosity** to advance the 
 ### 🔬 PhD Students  
 **Rolling admissions | Fully-funded scholarships available**
 
-Applicants show passion for developing novel theories for data-driven challenges. Minimum GPA: 85/100 from a 985 university, or 80/100 from a top-7 Chinese university (or international equivalent). Prior research experience is a strong plus.
+Applicants show passion for developing novel theories for data-driven challenges. Minimum GPA: 3.6/4.0 from a 985 university in China (or international equivalent). Prior research experience is a strong plus.
 
 > **Review my recent publications to ensure research alignment.**
 
