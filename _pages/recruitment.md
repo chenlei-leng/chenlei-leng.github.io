@@ -14,9 +14,8 @@ We seek candidates with **mathematical rigor** and **curiosity** to advance the 
 ## 📢 Open Positions
 
 ### 🔬 PhD Students  
-**Rolling admissions | Fully-funded scholarships available**
 
-Applicants show passion for developing novel theories for data-driven challenges. Minimum GPA: 3.6/4.0 from a 985 university in China (or international equivalent). Prior research experience is a strong plus.
+Applicants should demonstrate a strong passion for developing novel approaches to data-driven challenges. A minimum GPA of 3.6/4.0 from a 985 university in China (or an international equivalent with a four-year degree) is required. Prior research experience is highly valued but not mandatory. We encourage early inquiries, ideally before the end of the applicant's third year of undergraduate study.
 
 > **Review my recent publications to ensure research alignment.**
 
@@ -75,4 +74,4 @@ Our group is part of a vibrant research community at The Hong Kong Polytechnic U
 
 We carefully review every application. If your background aligns with our needs, we will contact you within **two weeks**. Due to volume, we cannot respond individually to all inquiries.
 
-**We look forward to exploring how your talents could contribute to groundbreaking research!**
+---
