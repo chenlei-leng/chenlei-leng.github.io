@@ -7,71 +7,55 @@ author_profile: true
 
 ## 🚀 Join Our Team
 
-We seek candidates with **mathematical rigor** and **curiosity** to advance the theoretical foundations of modern data science. If you're passionate about statistics, machine learning, mathematics, and theoretical computer science, please feel free to get in touch regarding PhD/Postdoc positions.
+We seek candidates with **mathematical rigor** and **curiosity** to advance the theoretical foundations of modern data science. If you're passionate about statistics, machine learning, or theoretical computer science, get in touch regarding PhD, Postdoc, or Summer Intern positions.
 
 ---
 
-## 📢 Open Positions
+## Open Positions
 
-### 🔬 PhD Students  
+### 🔬 PhD Students
+Strong applicants should have a GPA ≥ 3.6/4.0 from a 985 university (or international equivalent) and a passion for novel theoretical approaches. Prior research experience is valued but not required. Early inquiries (before the end of your third year) are encouraged. **Review my recent publications to ensure research alignment.**
 
-Applicants should demonstrate a strong passion for developing novel approaches to data-driven challenges. A minimum GPA of 3.6/4.0 from a 985 university in China (or an international equivalent with a four-year degree) is required. Prior research experience is highly valued but not mandatory. We encourage early inquiries, ideally before the end of the applicant's third year of undergraduate study.
+We also participate in two international collaboration schemes:
+- **Dual PhD Degree Programmes** – earn two separate PhD degrees ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/))
+- **Joint PhD Supervision Scheme** – spend 12 months at PolyU as a Research Assistant ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/))
 
-> **Review my recent publications to ensure research alignment.**
+### 🧪 Postdoctoral Fellows
+One position open as of August 2026 for recent PhD graduates with exceptional records in statistical theory, machine learning, or related fields. Contact me directly.
 
-### **Collaborative PhD Programmes**
-
-We participate in two international collaboration schemes:
-
-- **Dual PhD Degree Programmes** ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/))  
-  Earn two separate PhD degrees from PolyU and a partner university. Students split time between institutions and fulfill both programmes' requirements.
-
-- **Joint PhD Supervision Scheme** ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/))  
-  Current PhD students from leading global universities spend 12 months at PolyU as Research Assistants under joint supervision.
-
-### 🧪 Postdoctoral Fellows  
-Recent PhD graduates with exceptional records in **statistical theory, machine learning, or related fields**. One position is open as of August 2026. Contact me directly.
-
-### 💡 Summer Research Interns  
-Outstanding undergraduate or master's students gain hands-on research experience under direct mentorship.
-
-*Note: Internships are voluntary and unfunded. Preference for top-tier students with excellent records.*
+### 💡 Summer Research Interns
+Hands-on research experience under direct mentorship for outstanding undergraduate or master's students. *Note: Voluntary and unfunded.*
 
 ---
 
-## 📄 How to Apply
+## How to Apply
 
-Email **Prof. Chenlei Leng** at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with subject:  
-**"Application – [Position] – [Your Name]"**
+Email **Prof. Chenlei Leng** at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.leng@polyu.edu.hk) with subject: **"Application – [Position] – [Your Name]"**
 
-### 📎 Required for All Applicants
-- **CV**
-- **Research Statement** – interests, background, and motivation
+**Required for all:**
+- CV
+- Research Statement (interests, background, motivation)
 
-### 🎓 Additional for PhD Applicants
-- **Academic transcripts**
-- In your research statement, address:
-  - How your interests connect to **our research themes**
-  - Your perspective on **1-2 open challenges** in our field (beyond summarizing existing work)
+**Additional for PhD applicants:**
+- Academic transcripts
+- In your research statement, address: (i) how your interests connect to our research themes, and (ii) your perspective on 1–2 open challenges in our field (beyond summarizing existing work)
 
-### 🌐 Additional for Intern Applicants
-- **Availability** (dates and duration)
-- **Learning objectives**
-- **Relevant coursework and technical skills**
+**Additional for interns:**
+- Availability (dates and duration)
+- Learning objectives
+- Relevant coursework and technical skills
 
 ---
 
-## 🏫 About Our Research Environment
+## About Our Research Environment
 
 - **PhD Funding & Admissions:** [PolyU Graduate School](https://www.polyu.edu.hk/gs/)
 - **Virtual Info Sessions:** [2025 PhD Info Day Recordings](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/)
 
-Our group is part of a vibrant research community at The Hong Kong Polytechnic University, in one of Asia's most dynamic innovation hubs.
+We are part of a vibrant research community at PolyU, in one of Asia's most dynamic innovation hubs.
 
 ---
 
-## ⏳ After You Apply
+## After You Apply
 
-We carefully review every application. If your background aligns with our needs, we will contact you within **two weeks**. Due to volume, we cannot respond individually to all inquiries.
-
----
+We carefully review every application. If your background aligns, we will contact you within **two weeks**. Due to volume, we cannot respond individually to all inquiries.
