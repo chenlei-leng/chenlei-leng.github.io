@@ -7,6 +7,8 @@ author_profile: true
 
 I am fortunate to work with a group of talented and motivated researchers. It has been a privilege to mentor students and postdocs who have gone on to successful careers in both academia and industry.
 
+![Group Photo 2026](/images/GroupPhoto2026.jpg){: .align-center}
+
 ---
 
 ### 🎓 Current PhD Students
