@@ -21,7 +21,7 @@ We also participate in two international collaboration schemes:
 - **Joint PhD Supervision Scheme** – spend 12 months at PolyU as a Research Assistant ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/))
 
 ### 🧪 Postdoctoral Fellows
-One position open as of August 2026 for recent PhD graduates with exceptional records in statistical theory, machine learning, or related fields. Contact me directly.
+I have postdotoral fellow posts from time to time. Contact me directly.
 
 ### 💡 Summer Research Interns
 Hands-on research experience under direct mentorship for outstanding undergraduate or master's students. *Note: Voluntary and unfunded.*
