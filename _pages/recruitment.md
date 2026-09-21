@@ -58,4 +58,4 @@ We are part of a vibrant research community at PolyU, in one of Asia's most dyna
 
 ## After You Apply
 
-We carefully review every application. If your background aligns, we will contact you within **two weeks**. Due to volume, we cannot respond individually to all inquiries.
+We carefully review every application. If your background aligns with our needs, we will contact you within two weeks. Due to the high volume of applications, we are unable to respond to every inquiry individually. Incomplete applications may not receive a response.
