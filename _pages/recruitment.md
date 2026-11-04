@@ -14,7 +14,7 @@ We seek candidates with **mathematical rigor** and **curiosity** to advance the 
 ## Open Positions
 
 ### 🔬 PhD Students
-Strong applicants should have a GPA ≥ 3.6/4.0 from a 985 university (or international equivalent) and a passion for novel theoretical approaches. Prior research experience is valued but not required. Early inquiries (before the end of your third year) are encouraged. **Review my recent publications to ensure research alignment.**
+Strong applicants should have a GPA ≥ 3.7/4.0 from a 985 university (or international equivalent) and a passion for novel theoretical approaches. Prior research experience is valued but not required. Early inquiries (before the end of your third year) are encouraged. **Review my recent publications to ensure research alignment.**
 
 We also participate in two international collaboration schemes:
 - **Dual PhD Degree Programmes** – earn two separate PhD degrees ([Details](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/))
@@ -24,7 +24,7 @@ We also participate in two international collaboration schemes:
 I have postdotoral fellow posts from time to time. Contact me directly.
 
 ### 💡 Summer Research Interns
-Hands-on research experience under direct mentorship for outstanding undergraduate or master's students. *Note: Voluntary and unfunded.*
+Hands-on research experience under direct mentorship for outstanding undergraduate or master's students (GPA>=3.70/4.00 from leading universities only). *Note: Voluntary and unfunded.*
 
 ---
 
