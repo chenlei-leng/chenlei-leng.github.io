@@ -51,7 +51,7 @@ Email **Prof. Chenlei Leng** at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.
 
 - **PhD Funding & Admissions:** [PolyU Graduate School](https://www.polyu.edu.hk/gs/) — official postgraduate recruitment page.
 
-- **Collaborative International Schemes:** [Dual PhD Degree Programmes](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/) · [Joint PhD Supervision Scheme](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/) (12 months at PolyU as a Research Assistant)
+- **Collaborative International Schemes:** [Dual PhD Degree Programmes](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/) · [Joint PhD Supervision Scheme](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/) 
 
 We are part of a vibrant research community at PolyU, in one of Asia's most dynamic innovation hubs.
 ---
