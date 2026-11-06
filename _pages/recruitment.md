@@ -24,8 +24,6 @@ GPA ≥ 3.60/4.00 (985 or international equivalent). Prior research experience v
 
 **In your research statement:** propose **1–2 concrete problems** you would like to work on and **why they matter** — a well-posed question, a gap, or a conjecture you find interesting. Do not summarize my papers or express general admiration; I want to see how you think.
 
-**International schemes:** [Dual PhD Degree Programmes](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/) · [Joint PhD Supervision Scheme](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/) (12 months at PolyU as a Research Assistant)
-
 ### 🧪 Postdoctoral Fellows
 Positions open periodically. **Fit is essential.**
 
@@ -49,10 +47,13 @@ Email **Prof. Chenlei Leng** at 📧 [chenlei.leng@polyu.edu.hk](mailto:chenlei.
 **Intern applicants — additionally:** Academic transcripts, availability (dates and duration).
 
 ---
-
 ## Research Environment
-[PolyU Graduate School](https://www.polyu.edu.hk/gs/) · [2025 PhD Info Day Recordings](https://www.polyu.edu.hk/gs/news-and-events/phd-info-days-2025/) — a vibrant research community in one of Asia's most dynamic innovation hubs.
 
+- **PhD Funding & Admissions:** [PolyU Graduate School](https://www.polyu.edu.hk/gs/) — official postgraduate recruitment page.
+
+- **Collaborative International Schemes:** [Dual PhD Degree Programmes](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/dual-phd-degree-programmes/) · [Joint PhD Supervision Scheme](https://www.polyu.edu.hk/gs/prospective-students/collaborative-phd-programmes/joint-phd-supervision-scheme-with-leading-universities/) (12 months at PolyU as a Research Assistant)
+
+We are part of a vibrant research community at PolyU, in one of Asia's most dynamic innovation hubs.
 ---
 
 ## After You Apply
